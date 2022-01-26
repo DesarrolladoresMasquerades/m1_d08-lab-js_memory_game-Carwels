@@ -125,4 +125,3 @@ cardsHTML.forEach(cardHtml => {
 
   cardsHTML.forEach((cardHtml) => memoryBoard.appendChild(cardHtml));
 });
-
